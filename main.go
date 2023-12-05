@@ -46,5 +46,3 @@ func left(i int) int {
 func right(i int) int {
 	return 2*i + 2
 }
-
-// https://youtu.be/3DYIgTC4T1o?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6&t=744
